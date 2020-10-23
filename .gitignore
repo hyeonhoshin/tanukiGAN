@@ -3,3 +3,5 @@
 /MNIST
 .ipynb_checkpoints
 .git
+__pycache__/
+/img
